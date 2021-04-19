@@ -1,0 +1,16 @@
+There can be only $ @ $
+$string = 'tutorial';                                     
+# give $string the eight-character string 'tutorial'
+print $string;
+$string = $size + 3 ;                                           
+# give $string the current value of $size plus 3
+print $string;
+$string = $ string * 5;                                         
+# multiplied $string by 5
+print $string;
+@array1=qw/a b c d/;
+@array2= qw' p q r s'; 
+@array3=qw { v x y z};
+print @array1;
+print @array2;
+print @array3;
